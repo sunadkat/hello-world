@@ -1,4 +1,5 @@
 # hello-world
-My First repository. Getting familiar with Github
+
+This is my first repository, and guide for getting familiar with GitHub.
 
 
